@@ -9,7 +9,7 @@ from PIL import Image
 from requests import get
 
 
-bot = telebot.TeleBot('5184070809:AAFrb0k4GFSZSRGn5Dqb1eWChPZb5ERdDEw')
+bot = telebot.TeleBot('')
 
 income2 = ['00','01','10','11']
 income4 = ['000','001','010','011','100','101','110','111']
