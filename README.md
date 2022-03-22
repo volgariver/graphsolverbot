@@ -1,5 +1,5 @@
 # A bot for Telegram. 
-That solves the problem of constructing a graph of transitivity and bicetivity for a given function
+That solves the problem of constructing a graph of transitivity and bijectivity for a given function
 
 ![Screenshot](https://i.ibb.co/VQtMBxM/rsz-screen.jpg)
 ![Screenshot](https://i.ibb.co/gDMR4fc/rsz-graph1.jpg)
